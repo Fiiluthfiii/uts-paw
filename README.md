@@ -65,17 +65,80 @@ Ganti seluruh isi berkas ini dengan dokumentasi aplikasimu (butir rubrik A4). Ke
 ```markdown
 # Nama Aplikasi
 
-Nama: ...
-NIM: ...
-Kelas: ...
-Tema: ...
-Deployment: https://USERNAME.github.io/uts-paw/
+Nama: Firman Luthfiansyah
+NIM: 124140044
+Kelas: RA
+Tema: Daftar Tontonan Film dan Serial
+Deployment: https://github.com/Fiiluthfiii/uts-paw 
 
-![Tangkapan layar beranda](docs/beranda.png)
+![Tangkapan layar Beranda](docs/Beranda.png)
+![Tangkapan layar Koleksi](docs/Koleksi.png.png)
+![Tangkapan layar Tambah](docs/Tambah.png)
+![Tangkapan layar Statistik](docs/Statistik.png)
+![Tangkapan layar Tentang](docs/Tentang.png)
+![Tangkapan layar Tidak di Temukan](docs/404.png)
 
 ## Fitur
 
-- ...
+1. Halaman Beranda
+- Menampilkan judul aplikasi Daftar Tugas.
+- Menampilkan tema aplikasi.
+- Menampilkan jumlah seluruh data tontonan.
+- Menampilkan jumlah kategori yang tersedia.
+- Menyediakan tombol Lihat semua tugas menuju halaman Koleksi.
+- Menampilkan status pemuatan data saat data sedang dimuat.
+2. Halaman Koleksi
+- Menampilkan seluruh data film dan serial.
+- Menampilkan informasi:
+  - Judul
+  - Kategori
+  - Sutradara
+  - Tahun rilis
+  - Rating
+  - Tanggal tayang
+- Menyediakan fitur pencarian berdasarkan judul.
+- Menyediakan filter berdasarkan kategori Film atau Serial.
+- Menampilkan pesan apabila data tidak ditemukan.
+- Setiap judul dapat diklik untuk melihat halaman detail.
+3. Halaman Detail
+- Menampilkan informasi lengkap dari film atau serial yang dipilih.
+- Menampilkan judul, kategori, sutradara, tahun rilis, rating, dan tanggal tayang.
+- Menyediakan tombol Hapus untuk menghapus data.
+- Menampilkan konfirmasi sebelum data dihapus.
+- Mengarahkan pengguna kembali ke halaman Koleksi setelah data dihapus.
+- Menampilkan pesan apabila data tidak ditemukan.
+- Menyediakan tombol Kembali ke halaman Koleksi.
+4. Halaman Tambah
+- Menambahkan data film atau serial baru.
+- Menyediakan input:
+  - Judul
+  - Kategori
+  - Sutradara
+  - Tahun rilis
+  - Rating
+  - Tanggal tayang
+- Menyediakan validasi judul minimal tiga karakter.
+- Menampilkan pesan kesalahan jika judul belum valid.
+- Menyimpan data baru ke dalam koleksi.
+- Mengarahkan pengguna ke halaman Koleksi setelah data berhasil disimpan.
+5. Halaman Statistik
+- Menampilkan jumlah tontonan berdasarkan kategori.
+- Menampilkan jumlah Film.
+- Menampilkan jumlah Serial.
+- Menampilkan total seluruh data tontonan dalam koleksi.
+6. Halaman Tentang
+- Menampilkan identitas mahasiswa:
+  - Nama
+  - NIM
+  - Kelas
+  - Tema aplikasi
+- Menampilkan tautan menuju repository GitHub project.
+7. Fitur Navigasi dan Data
+- Menyediakan navigasi ke Beranda, Koleksi, Tambah, Statistik, dan Tentang.
+- Menyediakan halaman 404 untuk alamat yang tidak ditemukan.
+- Mengambil data awal dari file koleksi.json.
+- Menyimpan data koleksi di localStorage.
+- Mempertahankan data koleksi meskipun halaman browser dimuat ulang.
 
 ## Menjalankan secara lokal
 
