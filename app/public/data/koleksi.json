@@ -1,10 +1,82 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Interstellar",
+    "kategori": "Film",
+    "sutradara": "Christopher Nolan",
+    "tahunRilis": 2014,
+    "rating": 8.7
+  },
+  {
+    "id": "2",
+    "judul": "Inception",
+    "kategori": "Film",
+    "sutradara": "Christopher Nolan",
+    "tahunRilis": 2010,
+    "rating": 8.8
+  },
+  {
+    "id": "3",
+    "judul": "The Dark Knight",
+    "kategori": "Film",
+    "sutradara": "Christopher Nolan",
+    "tahunRilis": 2008,
+    "rating": 9.0
+  },
+  {
+    "id": "4",
+    "judul": "Avengers: Endgame",
+    "kategori": "Film",
+    "sutradara": "Anthony Russo dan Joe Russo",
+    "tahunRilis": 2019,
+    "rating": 8.4
+  },
+  {
+    "id": "5",
+    "judul": "Parasite",
+    "kategori": "Film",
+    "sutradara": "Bong Joon-ho",
+    "tahunRilis": 2019,
+    "rating": 8.5
+  },
+  {
+    "id": "6",
+    "judul": "Stranger Things",
+    "kategori": "Serial",
+    "sutradara": "The Duffer Brothers",
+    "tahunRilis": 2016,
+    "rating": 8.6
+  },
+  {
+    "id": "7",
+    "judul": "Breaking Bad",
+    "kategori": "Serial",
+    "sutradara": "Vince Gilligan",
+    "tahunRilis": 2008,
+    "rating": 9.5
+  },
+  {
+    "id": "8",
+    "judul": "Squid Game",
+    "kategori": "Serial",
+    "sutradara": "Hwang Dong-hyuk",
+    "tahunRilis": 2021,
+    "rating": 8.0
+  },
+  {
+    "id": "9",
+    "judul": "The Last of Us",
+    "kategori": "Serial",
+    "sutradara": "Craig Mazin dan Neil Druckmann",
+    "tahunRilis": 2023,
+    "rating": 8.5
+  },
+  {
+    "id": "10",
+    "judul": "Wednesday",
+    "kategori": "Serial",
+    "sutradara": "Tim Burton",
+    "tahunRilis": 2022,
+    "rating": 8.0
   }
 ]
