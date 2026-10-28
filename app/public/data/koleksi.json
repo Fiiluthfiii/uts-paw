@@ -3,80 +3,90 @@
     "id": "1",
     "judul": "Interstellar",
     "kategori": "Film",
-    "Sutradara": "Christopher Nolan",
+    "sutradara": "Christopher Nolan",
     "tahunRilis": 2014,
-    "rating": 8.7
+    "rating": 8.7,
+    "tayang": "2014-11-07"
   },
   {
     "id": "2",
     "judul": "Inception",
     "kategori": "Film",
-    "Sutradara": "Christopher Nolan",
+    "sutradara": "Christopher Nolan",
     "tahunRilis": 2010,
-    "rating": 8.8
+    "rating": 8.8,
+    "tayang": "2010-07-16"
   },
   {
     "id": "3",
     "judul": "The Dark Knight",
     "kategori": "Film",
-    "Sutradara": "Christopher Nolan",
+    "sutradara": "Christopher Nolan",
     "tahunRilis": 2008,
-    "rating": 9.0
+    "rating": 9.0,
+    "tayang": "2008-07-18"
   },
   {
     "id": "4",
     "judul": "Avengers: Endgame",
     "kategori": "Film",
-    "Sutradara": "Anthony Russo dan Joe Russo",
+    "sutradara": "Anthony Russo dan Joe Russo",
     "tahunRilis": 2019,
-    "rating": 8.4
+    "rating": 8.4,
+    "tayang": "2019-04-26"
   },
   {
     "id": "5",
     "judul": "Parasite",
     "kategori": "Film",
-    "Sutradara": "Bong Joon-ho",
+    "sutradara": "Bong Joon-ho",
     "tahunRilis": 2019,
-    "rating": 8.5
+    "rating": 8.5,
+    "tayang": "2019-05-30"
   },
   {
     "id": "6",
     "judul": "Stranger Things",
     "kategori": "Serial",
-    "Sutradara": "The Duffer Brothers",
+    "sutradara": "The Duffer Brothers",
     "tahunRilis": 2016,
-    "rating": 8.6
+    "rating": 8.6,
+    "tayang": "2016-07-15"
   },
   {
     "id": "7",
     "judul": "Breaking Bad",
     "kategori": "Serial",
-    "Sutradara": "Vince Gilligan",
+    "sutradara": "Vince Gilligan",
     "tahunRilis": 2008,
-    "rating": 9.5
+    "rating": 9.5,
+    "tayang": "2008-01-20"
   },
   {
     "id": "8",
     "judul": "Squid Game",
     "kategori": "Serial",
-    "Sutradara": "Hwang Dong-hyuk",
+    "sutradara": "Hwang Dong-hyuk",
     "tahunRilis": 2021,
-    "rating": 8.0
+    "rating": 8.0,
+    "tayang": "2021-09-17"
   },
   {
     "id": "9",
     "judul": "The Last of Us",
     "kategori": "Serial",
-    "Sutradara": "Craig Mazin dan Neil Druckmann",
+    "sutradara": "Craig Mazin dan Neil Druckmann",
     "tahunRilis": 2023,
-    "rating": 8.5
+    "rating": 8.5,
+    "tayang": "2023-01-15"
   },
   {
     "id": "10",
     "judul": "Wednesday",
     "kategori": "Serial",
-    "Sutradara": "Tim Burton",
+    "sutradara": "Tim Burton",
     "tahunRilis": 2022,
-    "rating": 8.0
+    "rating": 8.0,
+    "tayang": "2022-11-23"
   }
 ]
