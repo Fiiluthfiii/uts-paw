@@ -1,8 +1,11 @@
+import { Link } from 'react-router-dom'
+
 export default function TidakDitemukan() {
   return (
-    <main>
+    <section>
       <h1>404</h1>
       <p>Halaman tidak ditemukan.</p>
-    </main>
+      <Link to="/">Kembali ke beranda</Link>
+    </section>
   )
 }
