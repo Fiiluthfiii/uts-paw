@@ -1,3 +1,3 @@
-export default function Beranda() {
-  return <h1>Beranda</h1>
+export default function Koleksi() {
+  return <h1>Koleksi</h1>
 }

@@ -1,3 +1,3 @@
 export default function Beranda() {
-  return <h1>Beranda</h1>
+  return <h1>Detail</h1>
 }

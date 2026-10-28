@@ -1,3 +1,3 @@
-export default function Beranda() {
-  return <h1>Beranda</h1>
+export default function Statistik() {
+  return <h1>Statistik</h1>
 }

@@ -1,6 +1,6 @@
 import { NavLink, Outlet } from 'react-router-dom'
 import './Layout.css'
-import mahasiswa from "../../mahasiswa.json";
+
 
 const MENU = [
   { ke: '/', label: 'Beranda' },
@@ -14,7 +14,7 @@ export default function Layout() {
   return (
     <div className="kerangka">
       <header className="kepala">
-        <strong>{mahasiswa.tema}</strong>
+        <strong>Daftar Tugas</strong>
         <nav className="menu">
           {MENU.map(({ ke, label }) => (
             <NavLink key={ke} to={ke} end={ke === '/'}>
