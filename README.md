@@ -148,5 +148,37 @@ npm run dev
 
 ## Konsep React yang dipakai
 
-- ...
+Konsep React yang Dipakai
+- Component-Based Architecture
+  Aplikasi dibagi menjadi beberapa komponen seperti Layout, Koleksi, Detail, Tambah, Statistik, dan Tentang.
+- JSX
+  Digunakan untuk menulis struktur tampilan HTML di dalam JavaScript.
+- Props
+  Digunakan untuk mengirim data dari komponen induk ke komponen anak, contohnya data item pada komponen KartuItem.
+- State dengan useState
+  Digunakan untuk menyimpan data yang dapat berubah, seperti:
+  - Isi pencarian
+  - Kategori yang dipilih
+  - Data formulir tambah
+  - Pesan kesalahan
+- Side Effect dengan useEffect
+  Digunakan untuk mengambil data dari koleksi.json dan menyimpan perubahan data ke localStorage.
+- Context API
+  KoleksiProvider digunakan untuk menyediakan data koleksi dan fungsi tambah/hapus ke berbagai halaman tanpa mengirim props secara manual.
+- React Router
+  Digunakan untuk membuat navigasi antarhalaman, seperti:
+  - /
+  - /koleksi
+  - /koleksi/:id
+  - /tambah
+  - /statistik
+  - /tentang
+- Dynamic Route
+  Route /koleksi/:id digunakan untuk menampilkan detail berdasarkan ID item yang dipilih.
+- Event Handling
+  Digunakan untuk menangani aksi pengguna seperti pencarian, perubahan formulir, penyimpanan data, dan penghapusan data.
+- Pengelolaan Data Lokal
+  Data disimpan menggunakan localStorage agar tetap tersedia setelah halaman dimuat ulang.
+- Pengambilan Data Asinkron
+  Fungsi fetch() digunakan untuk mengambil data awal dari file public/data/koleksi.json.
 ```
