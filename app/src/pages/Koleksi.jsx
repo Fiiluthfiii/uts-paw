@@ -19,7 +19,7 @@ export default function Koleksi() {
   )
 
   return (
-    <section>
+    <section id="koleksi">
       <h1>Koleksi</h1>
       <div className="alat-koleksi">
         <KotakPencarian nilai={cari} onUbah={setCari} />

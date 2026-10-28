@@ -14,3 +14,28 @@ main {
   margin: 0 auto;
   padding: 2rem 1rem;
 }
+
+#beranda {
+  padding: 1rem;
+}
+
+#koleksi {
+  padding: 1rem;
+}
+
+#statistik {
+  padding: 1rem;
+}
+
+.kartu:hover {
+  transform: translateY(-3px);
+}
+
+.alat-koleksi input:focus,
+.alat-koleksi select:focus {
+  outline: 2px solid #2563eb;
+}
+
+.menu a:active {
+  color: #b42318;
+}
