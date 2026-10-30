@@ -15,9 +15,6 @@ main {
   padding: 2rem 1rem;
 }
 
-#beranda {
-  padding: 1rem;
-}
 
 #koleksi {
   padding: 1rem;
@@ -33,9 +30,9 @@ main {
 
 .alat-koleksi input:focus,
 .alat-koleksi select:focus {
-  outline: 2px solid #2563eb;
+  outline: 2px solid #064735;
 }
 
 .menu a:active {
-  color: #b42318;
+  color: #ffc107;
 }

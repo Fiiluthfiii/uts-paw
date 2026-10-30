@@ -9,11 +9,19 @@
   justify-content: space-between;
   align-items: center;
   padding: 1rem 1.5rem;
+  background-color: #064735;
+  color: #ffc107;
 }
 
 .menu {
   display: flex;
   gap: 1rem;
+}
+
+.menu a {
+  color: #ffc107;
+  text-decoration: none;
+
 }
 
 .menu a.active {
@@ -31,8 +39,10 @@
 .kaki {
   padding: 1rem 1.5rem;
   border-top: 1px solid #dcdcdc;
-  color: #57606a;
+  color: #fff;
   font-size: 0.9rem;
+  background-color: #064735;
+  text-align: center;
 }
 
 .aksi {
@@ -75,7 +85,7 @@
 
 .kartu p {
   margin: 0;
-  color: #57606a;
+  color: #ffffff;
 }
 
 .alat-koleksi {

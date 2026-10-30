@@ -34,6 +34,10 @@
   font-weight: 600;
 }
 
+.judul-statistik {
+  color: #064735;
+}
+
 @media (max-width: 480px) {
   .tabel-data th,
   .tabel-data td {

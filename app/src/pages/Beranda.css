@@ -1,0 +1,26 @@
+#beranda {
+    background-color: #064735;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.judul-beranda {
+    color: #ffc107;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #ffff;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+.lihat-tugas {
+    color: #064735;
+    text-decoration: none;
+    background-color: #ffc107;
+    border-radius: 5px;
+    padding: 10px 20px;
+}

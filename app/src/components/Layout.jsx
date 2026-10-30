@@ -23,6 +23,7 @@ export default function Layout() {
           ))}
         </nav>
       </header>
+      
       <main className="isi">
         <Outlet />
       </main>

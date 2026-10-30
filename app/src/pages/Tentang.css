@@ -1,0 +1,16 @@
+#tentang {
+    color: #064735;
+}
+
+.button-link {
+    display: flex;
+    gap: 10px;
+}
+
+.repo a {
+    color: #ffc107;
+    background-color: #064735;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}

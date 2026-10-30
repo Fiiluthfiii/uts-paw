@@ -24,16 +24,30 @@
   font-size: 0.9rem;
 }
 
+.formulir input:focus,
+.formulir select:focus {
+  outline: 2px solid #064735;
+}
+
 .formulir button {
   align-self: flex-start;
   margin-top: 1rem;
   padding: 0.6rem 1.5rem;
   border: 0;
   border-radius: 6px;
-  background: #1f2328;
-  color: #fff;
+  background: #064735;
+  color: #ffc107;
   font: inherit;
   cursor: pointer;
+}
+
+.judul-tambah {
+ color: #064735;
+}
+
+label {
+  color: #064735;
+  font-weight: bold;
 }
 
 @media (max-width: 480px) {
