@@ -1,0 +1,27 @@
+#tidak-ditemukan {
+    text-align: center;
+    background-color: #064735;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.error {
+    color: #ff0000;
+    font-size: 10rem;
+    margin-bottom: 0.1rem;
+    margin-top: 0.1rem;
+}
+
+#tidak-ditemukan p {
+    color: #ffc107;
+    font-size: 2rem;
+}
+
+.Link {
+    color: #064735;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: #ffc107;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+}
