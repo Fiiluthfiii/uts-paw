@@ -7,7 +7,7 @@ Tema: Daftar Tontonan Film dan Serial
 Deployment: https://github.com/Fiiluthfiii/uts-paw 
 
 ![Tangkapan layar Beranda](docs/Beranda.png)
-![Tangkapan layar Koleksi](docs/Koleksi.png.png)
+![Tangkapan layar Koleksi](docs/Koleksi.png)
 ![Tangkapan layar Tambah](docs/Tambah.png)
 ![Tangkapan layar Statistik](docs/Statistik.png)
 ![Tangkapan layar Tentang](docs/Tentang.png)
